@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the same each time 1`] = `
+<DocumentFragment>
+  <div
+    class="Box"
+  >
+    <div
+      class="Box-box"
+      style="background-color: red; height: 100px; width: 100px;"
+    />
+    <button>
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;

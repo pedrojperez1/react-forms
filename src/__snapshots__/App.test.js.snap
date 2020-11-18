@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the same each time 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div>
+      <div
+        class="NewBoxForm"
+      >
+        <form>
+          <input
+            class="NewBoxForm-input"
+            name="backgroundColor"
+            placeholder="Background color"
+            type="text"
+            value=""
+          />
+          <input
+            class="NewBoxForm-input"
+            name="height"
+            placeholder="height"
+            type="text"
+            value=""
+          />
+          <input
+            class="NewBoxForm-input"
+            name="width"
+            placeholder="width"
+            type="text"
+            value=""
+          />
+          <button>
+            Add
+          </button>
+        </form>
+      </div>
+      <div
+        class="Box"
+      >
+        <div
+          class="Box-box"
+          style="background-color: pink; height: 100px; width: 100px;"
+        />
+        <button>
+          X
+        </button>
+      </div>
+      <div
+        class="Box"
+      >
+        <div
+          class="Box-box"
+          style="background-color: salmon; height: 200px; width: 200px;"
+        />
+        <button>
+          X
+        </button>
+      </div>
+      <div
+        class="Box"
+      >
+        <div
+          class="Box-box"
+          style="background-color: lightblue; height: 50px; width: 80px;"
+        />
+        <button>
+          X
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

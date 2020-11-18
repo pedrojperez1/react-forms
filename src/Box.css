@@ -1,0 +1,9 @@
+.Box {
+    display: inline-block;
+    margin: 10px;
+}
+
+.Box-box {
+    border-radius: 5%;
+    margin: 5px;
+}
